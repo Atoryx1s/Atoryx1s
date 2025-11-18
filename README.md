@@ -1,4 +1,4 @@
-![Header](https://github.com/Atoryx1s/Atoryx1s/blob/main/assets/Atoryx1s-logo.png)
+![Header](https://github.com/Atoryx1s/Atoryx1s/blob/main/assets/Atoryx1s-horizontal.png)
 
 About me
 
