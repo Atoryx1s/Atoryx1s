@@ -3,10 +3,6 @@
 # About Me
 ## I am a student at the Technical University of Košice. I study at the Faculty of Electrical Engineering &rarr; Department of computers and informatics ***KPI FEI TUKE***
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAtoryx1s&count_bg=%2323272D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false" alt="Profile Views"/>
-</p>
-
 # My languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,gitlab,vscode,stackoverflow,docker,c,cpp,cs,java,fastapi,postgresql,markdown,latex&perline=9" />
